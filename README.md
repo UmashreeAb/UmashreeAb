@@ -20,12 +20,6 @@
 - ⚡ Fun fact **I am Funny😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umashreeab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umashreeab" height="30" width="40" /></a>
-
-<a href="https://github.com/UmashreeAb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="umashreeab" height="30" width="40" /></a>
-</p>
-
 <p>
     <a href="https://linkedin.com/in/umashreeab" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umashreeab" height="30" width="40" />
